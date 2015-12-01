@@ -95,7 +95,7 @@ You can, for example:
 
 Looks like you installed the logging adapter Nuget package without installing Application Insights.
 
-In Solution Explorer, right-click `ApplicationInsights.config` and choose **Update Application Insights**. You'll get a dialog that invites you to sign in to Azure and either create an Application Insights resource, or re-use an existing one. That should fix it.
+In Solution Explorer, right-click `ApplicationInsights.config` and choose **Configure Application Insights**. You'll get a dialog that invites you to sign in to Azure and either create an Application Insights resource, or re-use an existing one. That should fix it.
 
 ### I can see traces in diagnostic search, but not the other events
 
